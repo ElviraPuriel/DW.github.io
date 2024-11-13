@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Página con Enlaces</title>
+    <title>Actividades</title>
 </head>
 <body>
     <h1>Bienvenido a mi página</h1>
